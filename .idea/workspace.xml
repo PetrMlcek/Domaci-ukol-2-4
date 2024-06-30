@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5dc1da06-df4e-4bb8-936b-69813e501fae" name="Changes" comment="" />
+    <list default="true" id="5dc1da06-df4e-4bb8-936b-69813e501fae" name="Changes" comment="Vytvoření rezervačního systému pro hotel.&#10;&#10;1.Vytvoření třídy Guest&#10;zadává informace o hostu&#10;&#10;2.Vytvoření třídy Room&#10;ukládá informace o pokojích&#10;&#10;3.Vytvoření třídy Booking&#10;vrací rezervace&#10;vrací informace o rezervaci&#10;&#10;4.Vytvoření třídy BookingManager&#10;ukláda seznam rezervací&#10;vrací seznam rezervací" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -17,16 +27,20 @@
   "associatedIndex": 1
 }]]></component>
   <component name="ProjectId" id="2iaqhnB1NEzosiyNZGikIGg6qiS" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "configurable.group.appearance"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -38,6 +52,42 @@
       <option name="presentableId" value="Default" />
       <updated>1719739156715</updated>
     </task>
+    <task id="LOCAL-00001" summary="Vytvoření rezervačního systému pro hotel.&#10;&#10;1.Vytvoření třídy Guest&#10;zadává informace o hostu&#10;&#10;2.Vytvoření třídy Room&#10;ukládá informace o pokojích&#10;&#10;3.Vytvoření třídy Booking&#10;vrací rezervace&#10;vrací informace o rezervaci&#10;&#10;4.Vytvoření třídy BookingManager&#10;ukláda seznam rezervací&#10;vrací seznam rezervací">
+      <option name="closed" value="true" />
+      <created>1719739415196</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719739415196</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Vytvoření rezervačního systému pro hotel.&#10;&#10;1.Vytvoření třídy Guest&#10;zadává informace o hostu&#10;&#10;2.Vytvoření třídy Room&#10;ukládá informace o pokojích&#10;&#10;3.Vytvoření třídy Booking&#10;vrací rezervace&#10;vrací informace o rezervaci&#10;&#10;4.Vytvoření třídy BookingManager&#10;ukláda seznam rezervací&#10;vrací seznam rezervací" />
+    <option name="LAST_COMMIT_MESSAGE" value="Vytvoření rezervačního systému pro hotel.&#10;&#10;1.Vytvoření třídy Guest&#10;zadává informace o hostu&#10;&#10;2.Vytvoření třídy Room&#10;ukládá informace o pokojích&#10;&#10;3.Vytvoření třídy Booking&#10;vrací rezervace&#10;vrací informace o rezervaci&#10;&#10;4.Vytvoření třídy BookingManager&#10;ukláda seznam rezervací&#10;vrací seznam rezervací" />
   </component>
 </project>
